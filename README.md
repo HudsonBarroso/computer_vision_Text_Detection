@@ -22,6 +22,10 @@ In order to use it, follow bellow steps:
 
 That is it!
 ```
+<p float="left">
+<img src="https://github.com/HudsonBarroso/computer_vision_Text_Detection/blob/main/images/text_labeled.jpg" width="400">
+</p>
+
 
 
 
